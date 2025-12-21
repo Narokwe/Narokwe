@@ -19,23 +19,10 @@ Deepening expertise in cloud-native data & AI architectures on GCP
 
 
 
-👯 **Open to Collaborate On**
-
-Public health data projects  
-
-AI & GenAI-powered health solutions  
-
-Data engineering & analytics platforms  
-
-Research-to-product (DeSci, health innovation) projects
-
-
-
-
-
 🌐 **Socials**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+
 
 
 
@@ -53,12 +40,16 @@ Research-to-product (DeSci, health innovation) projects
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 
 🏗️ **Data Engineering & Analytics Engineering**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt) 
 ![Superset](https://img.shields.io/badge/Superset-563D7C?style=for-the-badge&logo=apache) 
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-00BFA5?style=for-the-badge&logo=looker)
+![Google Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
 ☁️ **Cloud & DevOps**  
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) 
@@ -66,3 +57,17 @@ Research-to-product (DeSci, health innovation) projects
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F61?style=for-the-badge&logo=google) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
+
+
+
+👯 **Open to Collaborate On**
+
+Public health data projects  
+
+AI & GenAI-powered health solutions  
+
+Data engineering & analytics platforms  
+
+Research-to-product (DeSci, health innovation) projects
