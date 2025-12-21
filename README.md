@@ -1,6 +1,6 @@
 💫 **About Me**
 
-🔬 Public Health–driven Data Scientist, Data Engineer & Generative AI Developer (Firebase Genkit, Vertex AI, ADK)
+🔬 Public Health–driven Data Scientist, Data Engineer & Generative AI Developer
 🤖 Building AI-powered health & data systems using Go, Python, Genkit, ADK, Vertex AI & GCP  
 📊 Focused on Data Science, Data Analysis, Analytics Engineering, and responsible GenAI  
 🌍 Passionate about applying data & AI to real-world health and human development challenges
