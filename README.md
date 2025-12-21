@@ -1,16 +1,56 @@
-## Hi there 👋
+💫 About Me
 
-<!--
-**Narokwe/Narokwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Public Health–driven Data Scientist and Data Engineer  
+🤖 Building AI-powered health & data systems using Go, Python, Genkit, ADK, Vertex AI & GCP  
+📊 Focused on Data Science, Data Analysis, Analytics Engineering, and responsible GenAI  
+🌍 Passionate about applying data & AI to real-world health and human development challenges
 
-Here are some ideas to get you started:
+🌱 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning and building with Genkit, Vertex AI, & Agent Development Kit (ADK)  
+
+Exploring AI workflows, health data systems, and scalable analytics pipelines  
+
+Deepening expertise in cloud-native data & AI architectures on GCP
+
+👯 Open to Collaborate On
+
+Public health data projects  
+
+AI & GenAI-powered health solutions  
+
+Data engineering & analytics platforms  
+
+Research-to-product (DeSci, health innovation) projects
+
+🌐 Socials
+
+LinkedIn: https://www.linkedin.com/in/augustine-narokwe-354505293/
+
+💻 Tech Stack
+
+🧠 AI & GenAI  
+![Genkit](https://img.shields.io/badge/Genkit-FF6F61?style=for-the-badge&logo=ai) 
+![ADK](https://img.shields.io/badge/ADK-0078D7?style=for-the-badge&logo=ai) 
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google) 
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google)
+
+📊 Data Science & Analytics  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) 
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+
+🏗️ Data Engineering & Analytics Engineering  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt) 
+![Superset](https://img.shields.io/badge/Superset-563D7C?style=for-the-badge&logo=apache) 
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-00BFA5?style=for-the-badge&logo=looker)
+
+☁️ Cloud & DevOps  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) 
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud) 
+![Firestore](https://img.shields.io/badge/Firestore-FF6F61?style=for-the-badge&logo=google) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
