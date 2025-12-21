@@ -37,26 +37,26 @@ LinkedIn: https://www.linkedin.com/in/augustine-narokwe-354505293/
 
 💻 **Tech Stack**
 
-🧠 AI & GenAI  
+🧠 **AI & GenAI**  
 ![Genkit](https://img.shields.io/badge/Genkit-FF6F61?style=for-the-badge&logo=ai) 
 ![ADK](https://img.shields.io/badge/ADK-0078D7?style=for-the-badge&logo=ai) 
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google) 
 ![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google)
 
-📊 Data Science & Analytics  
+📊 **Data Science & Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
-🏗️ Data Engineering & Analytics Engineering  
+🏗️ **Data Engineering & Analytics Engineering**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt) 
 ![Superset](https://img.shields.io/badge/Superset-563D7C?style=for-the-badge&logo=apache) 
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-00BFA5?style=for-the-badge&logo=looker)
 
-☁️ Cloud & DevOps  
+☁️ **Cloud & DevOps**  
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) 
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud) 
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F61?style=for-the-badge&logo=google) 
