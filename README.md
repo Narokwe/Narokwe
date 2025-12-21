@@ -5,6 +5,8 @@
 📊 Focused on Data Science, Data Analysis, Analytics Engineering, and responsible GenAI  
 🌍 Passionate about applying data & AI to real-world health and human development challenges
 
+
+
 🌱 Currently
 
 Learning and building with Genkit, Vertex AI, & Agent Development Kit (ADK)  
@@ -12,6 +14,8 @@ Learning and building with Genkit, Vertex AI, & Agent Development Kit (ADK)
 Exploring AI workflows, health data systems, and scalable analytics pipelines  
 
 Deepening expertise in cloud-native data & AI architectures on GCP
+
+
 
 👯 Open to Collaborate On
 
@@ -23,9 +27,13 @@ Data engineering & analytics platforms
 
 Research-to-product (DeSci, health innovation) projects
 
+
+
 🌐 Socials
 
 LinkedIn: https://www.linkedin.com/in/augustine-narokwe-354505293/
+
+
 
 💻 Tech Stack
 
