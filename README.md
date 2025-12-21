@@ -1,4 +1,4 @@
-💫 About Me
+💫 **About Me**
 
 🔬 Public Health–driven Data Scientist and Data Engineer  
 🤖 Building AI-powered health & data systems using Go, Python, Genkit, ADK, Vertex AI & GCP  
@@ -7,7 +7,7 @@
 
 
 
-🌱 Currently
+🌱 **Currently**
 
 Learning and building with Genkit, Vertex AI, & Agent Development Kit (ADK)  
 
@@ -17,7 +17,7 @@ Deepening expertise in cloud-native data & AI architectures on GCP
 
 
 
-👯 Open to Collaborate On
+👯 **Open to Collaborate On**
 
 Public health data projects  
 
@@ -29,13 +29,13 @@ Research-to-product (DeSci, health innovation) projects
 
 
 
-🌐 Socials
+🌐 **Socials**
 
 LinkedIn: https://www.linkedin.com/in/augustine-narokwe-354505293/
 
 
 
-💻 Tech Stack
+💻 **Tech Stack**
 
 🧠 AI & GenAI  
 ![Genkit](https://img.shields.io/badge/Genkit-FF6F61?style=for-the-badge&logo=ai) 
