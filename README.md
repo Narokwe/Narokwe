@@ -1,9 +1,13 @@
 # 💫 About Me
 
 🔬 Public Health–driven Data Scientist, Data Engineer & Generative AI Developer
+
 🤖 Building AI-powered healthcare and data systems using Go, Python, R, TypeScript/Node.js, Genkit, Agent Development Kit (ADK), Vertex AI & GCP
+
 📊 Strong foundation in Data Science, MLOps, Analytics Engineering, and responsible Agentic & Generative AI
+
 🌍 Focused on applying AI, data, and cloud technologies to real-world healthcare and human development challenges
+
 
 
 
@@ -19,6 +23,9 @@ MLOps pipelines for training, deployment, and monitoring
 
 Cloud-native data & analytics architectures on GCP
 
+
+
+
 🧠 Deepening applied expertise at the intersection of:
 
 Healthcare data systems
@@ -26,6 +33,7 @@ Healthcare data systems
 AI safety & responsible AI
 
 Scalable analytics and ML infrastructure
+
 
 
 
@@ -69,6 +77,9 @@ Scalable analytics and ML infrastructure
 ## 👯 Open to Collaborate On
 
 🩺 AI & Agentic AI solutions for healthcare and public health
+
 📊 Data science, MLOps & analytics engineering projects
+
 ☁️ Cloud-native AI and data platforms on GCP
+
 🧬 Research-to-product (DeSci, health innovation, digital health) initiatives
