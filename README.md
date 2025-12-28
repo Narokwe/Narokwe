@@ -11,6 +11,7 @@
 
 
 
+
 ## 🌱 Current Focus
 
 🚀 Designing and building production-ready AI systems for healthcare, including:
@@ -26,6 +27,8 @@ Cloud-native data & analytics architectures on GCP
 
 
 
+
+
 🧠 Deepening applied expertise at the intersection of:
 
 Healthcare data systems
@@ -37,9 +40,16 @@ Scalable analytics and ML infrastructure
 
 
 
+
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+
+
+
+
+
 
 ## 💻 Tech Stack
 
@@ -72,6 +82,10 @@ Scalable analytics and ML infrastructure
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F61?style=for-the-badge&logo=google) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
+
+
 
 
 ## 👯 Open to Collaborate On
