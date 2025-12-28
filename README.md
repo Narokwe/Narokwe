@@ -1,17 +1,33 @@
 # 💫 About Me
 
-🔬 Public Health–driven Data Scientist, Data Engineer & Generative AI Developer  
-🤖 Building AI-powered health & data systems using Go, Python, Genkit, ADK, Vertex AI & GCP  
-📊 Focused on Data Science, Data Analysis, Analytics Engineering, and responsible GenAI  
-🌍 Passionate about applying data & AI to real-world health and human development challenges
+🔬 Public Health–driven Data Scientist, Data Engineer & Generative AI Developer
+🤖 Building AI-powered healthcare and data systems using Go, Python, R, TypeScript/Node.js, Genkit, Agent Development Kit (ADK), Vertex AI & GCP
+📊 Strong foundation in Data Science, MLOps, Analytics Engineering, and responsible Agentic & Generative AI
+🌍 Focused on applying AI, data, and cloud technologies to real-world healthcare and human development challenges
 
-## 🌱 Currently
 
-Learning and building with Genkit, Vertex AI, & Agent Development Kit (ADK)  
 
-Exploring AI workflows, health data systems, and scalable analytics pipelines  
+## 🌱 Current Focus
 
-Deepening expertise in cloud-native data & AI architectures on GCP
+🚀 Designing and building production-ready AI systems for healthcare, including:
+
+Agentic AI workflows using Genkit & ADK
+
+Generative AI services with Gemini & Vertex AI
+
+MLOps pipelines for training, deployment, and monitoring
+
+Cloud-native data & analytics architectures on GCP
+
+🧠 Deepening applied expertise at the intersection of:
+
+Healthcare data systems
+
+AI safety & responsible AI
+
+Scalable analytics and ML infrastructure
+
+
 
 ## 🌐 Socials
 
@@ -49,12 +65,10 @@ Deepening expertise in cloud-native data & AI architectures on GCP
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+
 ## 👯 Open to Collaborate On
 
-Public health data projects  
-
-AI & GenAI-powered health solutions  
-
-Data engineering & analytics platforms  
-
-Research-to-product (DeSci, health innovation) projects
+🩺 AI & Agentic AI solutions for healthcare and public health
+📊 Data science, MLOps & analytics engineering projects
+☁️ Cloud-native AI and data platforms on GCP
+🧬 Research-to-product (DeSci, health innovation, digital health) initiatives
