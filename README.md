@@ -16,7 +16,7 @@
 🚀 Designing and building **production-ready AI systems for healthcare**, including:
 
 - Agentic AI workflows using **Genkit & ADK**
-- Generative AI services with **Gemini & Vertex AI**
+- Generative AI services using **multiple foundation models** (Gemini, OpenAI, open-source LLMs) on **Vertex AI**
 - MLOps pipelines for **training, deployment, and monitoring**
 - Cloud-native data & analytics architectures on **GCP**
 
@@ -79,10 +79,10 @@
 
 ## 👯 Open To Collaborate On
 
-🩺 AI & Agentic AI solutions for **healthcare and public health**
+🩺 AI & Agentic AI solutions for **healthcare, public health, and Global Health**
 
 📊 Data science, **MLOps & analytics engineering** projects
 
 ☁️ Cloud-native AI and data platforms on **GCP**
 
-🧬 Research-to-product (**DeSci, health innovation, digital health**) initiatives
+🧬 Research-to-product (**DeSciAI, health innovation, digital health**) initiatives
